@@ -1,0 +1,2 @@
+# daily-ai-project-2026-10-13-personal-knowledge-navigator
+A privacy‑first web service that ingests a user’s notes, emails, and bookmarked web pages, builds a dynamic knowledge graph, and lets multi‑agent LLMs collaboratively summarize, link concepts, and answer natural‑language queries. Uses LangChain for retrieval, LangGraph for stateful reasoning, and CrewAI to orchestrate specialized agents. Build-it-y
